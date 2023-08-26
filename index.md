@@ -31,6 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### LofiTea
 
-Hi there!  There are some things that I like and I don't like!
+Hi there!  My GitHub name is LofiTea!  As my nickname states, I like lofi and I like tea!
 
 
