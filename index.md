@@ -5,6 +5,10 @@ Some Things I Like About CS193
 - No textbook
 - A class that helps me fill my CS knowledge gap
 
+### LofiTea
+
+Hi there!  My GitHub name is LofiTea!  As my nickname states, I like lofi and I like tea!
+
 ### Useful Information: Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -28,9 +32,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### LofiTea
-
-Hi there!  My GitHub name is LofiTea!  As my nickname states, I like lofi and I like tea!
-
-
